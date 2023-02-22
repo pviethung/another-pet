@@ -1,0 +1,63 @@
+{
+  "tags": [
+    {
+      "title": "technology",
+      "color": "green"
+    },
+    {
+      "title": "science",
+      "color": "red"
+    },
+    {
+      "title": "finance",
+      "color": "yellow"
+    },
+    {
+      "title": "society",
+      "color": "purple"
+    },
+    {
+      "title": "entertainment",
+      "color": "cyan"
+    },
+    {
+      "title": "health",
+      "color": "orange"
+    },
+    {
+      "title": "history",
+      "color": "pink"
+    },
+    {
+      "title": "news",
+      "color": "blue"
+    }
+  ],
+  "facts": [
+    {
+      "id": "1",
+      "content": "React is being developed by Meta (formerly Facebook)",
+      "src": "https://google.com",
+      "tag": "technology"
+    },
+    {
+      "id": "2",
+      "content": "As of 2023, Breaking Bad is the highest-rated Tv Show on IMDB with a rating of 9.4/10",
+      "src": "https://www.augustman.com/my/culture/film-tv/the-highest-rated-shows-on-imdb-of-all-time-2023/#:~:text=Question%3A%20Which%20are%20the%20top,highest%20rated%20shows%20on%20IMDb.",
+      "tag": "entertainment"
+    },
+    {
+      "id": "3",
+      "content": "'TypeWriter' is the longest English word you can type using 1 row of the QWERTY keyboard",
+      "src": "https://twitter.com/intel/status/442074967522684928",
+      "tag": "technology"
+    },
+    {
+      "id": "4",
+      "content": "Millennial dads spend 3  times as much time with their kids than their fathers spend with them. In 1982, 43% of fathers had never changed a diaper. Today, that number is down to 3%",
+      "src": "https://www.mother.ly/parenting/millennial-dads-spend-more-time-with-their-kids/",
+      "tag": "society"
+    }
+  ],
+  "profile": { "name": "typicode" }
+}
